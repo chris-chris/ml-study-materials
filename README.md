@@ -2,7 +2,9 @@
 
 ### 1. Machine Learning ebooks
 
-https://github.com/mindis/002_MachineLearning_eBook
+- Reinforcement Learning(Richard Sutton)
+
+https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
 
 - Deep Learning(Ian Goodfellow, Yoshua Bengio, Aaron Courville)
 
