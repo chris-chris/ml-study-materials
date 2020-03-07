@@ -56,3 +56,13 @@ https://www.youtube.com/watch?v=oRrKeUCEbq8
 
 https://www.youtube.com/watch?v=p701cYQeqew
 https://www.youtube.com/watch?v=vz3D36VXefI
+
+#### Reinforcement Learning
+
+- David Silver
+
+https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-
+
+- Stanford CS234: Reinforcement Learning
+
+https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u
