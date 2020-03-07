@@ -37,3 +37,22 @@ https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2Gf
 https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
 
 
+### 3. Youtube for ML Fundamentals
+
+
+- Matrix Factorization
+
+https://www.youtube.com/watch?v=ZspR5PZemcs (Luis)
+https://www.youtube.com/watch?v=5R1xOJOFRzs (Andrew Ng)
+
+- XGBoost
+
+https://www.youtube.com/watch?v=OtD8wVaFm6E
+https://www.youtube.com/watch?v=8b1JEDvenQU
+https://www.youtube.com/watch?v=ZVFeW798-2I
+https://www.youtube.com/watch?v=oRrKeUCEbq8
+
+- Multi-Armed Bandit
+
+https://www.youtube.com/watch?v=p701cYQeqew
+https://www.youtube.com/watch?v=vz3D36VXefI
