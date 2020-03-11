@@ -65,7 +65,13 @@ https://www.youtube.com/watch?v=vz3D36VXefI
 
 #### PCA
 
-https://www.youtube.com/watch?v=g-Hb26agBFg&t=419s
+https://www.youtube.com/watch?v=g-Hb26agBFg
+
+#### Eigenvector & Eigenvalue
+
+https://www.youtube.com/watch?v=ue3yoeZvt8E
+
+https://www.youtube.com/watch?v=PFDu9oVAE-g
 
 
 #### Reinforcement Learning
