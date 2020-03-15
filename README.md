@@ -63,6 +63,10 @@ https://www.youtube.com/watch?v=p701cYQeqew
 https://www.youtube.com/watch?v=vz3D36VXefI
 
 
+### Linear Algebra
+
+https://ulissesgtz.files.wordpress.com/2019/02/stephen-h.-friedberg-arnold-j.-insel-lawrence-e.-spence-linear-algebra-pearson-2014.pdf
+
 #### PCA
 
 https://www.youtube.com/watch?v=g-Hb26agBFg
