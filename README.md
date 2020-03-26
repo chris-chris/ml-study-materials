@@ -67,6 +67,10 @@ https://www.youtube.com/watch?v=vz3D36VXefI
 
 https://ulissesgtz.files.wordpress.com/2019/02/stephen-h.-friedberg-arnold-j.-insel-lawrence-e.-spence-linear-algebra-pearson-2014.pdf
 
+#### Pseudo Inverse
+
+http://www.sci.utah.edu/~gerig/CS6640-F2012/Materials/pseudoinverse-cis61009sl10.pdf
+
 #### PCA
 
 https://www.youtube.com/watch?v=g-Hb26agBFg
